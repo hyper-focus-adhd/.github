@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Hyper Focus is a platform to assist people with ADHD by facilitating their daily lives, improving their quality of life, and interaction with society. It Provides tools to assist people with ADHD in their daily lives, such as: social network, calendar, notes, disorder identification tests, gamification, and interaction with specialized doctors. These tools can contribute to the improvement of academic, professional, and social performance of those suffering from the disorder.
